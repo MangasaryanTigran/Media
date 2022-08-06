@@ -1,0 +1,282 @@
+@media only screen and (max-width: 1400px) {
+
+  .menu__btn{
+    display: none;
+  }
+  .california_travel {
+
+    padding-top: 526px;
+}
+.gallery_3 {
+    position: relative;
+    margin: 4px 37px 0 73px;
+}
+
+}
+
+
+
+@media only screen and (max-width: 1200px) {
+  .california_travel {
+    padding-top: 438px;
+}
+.day_dreamer {
+  top: 46px;
+}
+.center_title {
+  font-size: 23px;
+  line-height: 36px;
+}
+.center_block2 {
+  width: 300px;
+  height: 300px;
+  bottom: 34%;
+  right: 33%;
+}
+.center_text2 {
+  margin: 17px 7px 17px 7px;
+  font-size: 13px;
+}
+.center_button2{
+  font-size: 13px;
+}
+.pictures_pic5 {
+  top: 22%;
+}
+.gallery_3 {
+  margin: -26px 74px 0px 109px;
+}
+
+.perdre_la_femme{
+  top: -45px;
+}
+.center_block3 {
+  width: 300px;
+  height: 300px;
+  bottom: 34%;
+  right: 33%;
+}
+.center_text3 {
+  margin: 17px 7px 17px 7px;
+  font-size: 13px;
+}
+.center_button3{
+  font-size: 13px;
+}
+.pictures_pic13 {
+  top: 29%;
+}
+}
+
+
+@media only screen and (max-width: 992px) {
+  .cube_block{
+    bottom: 13px;
+  }
+  .title{
+    font-size: 41px;
+  }
+  .california_travel {
+    padding-top: 327px;
+}
+.center_title {
+  font-size: 17px;
+  margin-bottom: 0;
+}
+.center_text{
+  font-size: 11px;
+  margin-bottom: 5px;
+}
+.center_button{
+  font-size: 9px;
+}
+.california_travel {
+  padding-top: 313px;
+}
+.center_block2 {
+  width: 230px;
+  height: 200px;
+  bottom: 56%;
+  right: 33%;
+}
+.center_title2 {
+  font-size: 20px;
+  margin-top: 32px;
+}
+.center_text2 {
+  margin: 0px 7px 12px 7px;
+  font-size: 11px;
+}
+.center_button2 {
+  font-size: 8px;
+}
+.pictures_pic5 {
+  top: 15%;
+}
+.gallery_3 {
+  margin-top: -151px;
+}
+.center_block3 {
+  width: 230px;
+  height: 200px;
+  bottom: 42%;
+  right: 37%;
+}
+.center_title3 {
+  font-size: 20px;
+  margin-top: 32px;
+}
+.center_text3 {
+  margin: 0px 7px 12px 7px;
+  font-size: 11px;
+}
+.center_button3 {
+  font-size: 8px;
+}
+.pictures_pic13 {
+  top: 25%;
+}
+}
+
+
+
+@media only screen and (max-width: 768px) {
+  .menu__btn {
+    display: block;
+  }
+  .menu__btn > span{
+  top: 11px;
+  }
+  .nav_list{
+    visibility: hidden;
+  }
+  .logo{
+    visibility: initial;
+    right: 45px;
+    position: absolute;
+  }
+  .california_travel {
+    padding-top: 237px;
+  }
+  .center_title {
+    font-size: 13px;
+}
+.center_text {
+  font-size: 8px;
+  margin-bottom: 0;
+}
+.center_button {
+  font-size: 6px;
+}
+.day_dreamer {
+  top: 62px;
+}
+.pictures_pic5 {
+  top: 10%;
+}
+.center_block2 {
+  width: 170px;
+  height: 150px;
+  bottom: 68%;
+}
+.center_title2{
+  font-size: 17px;
+  margin-top: 17px;
+}
+.center_text2 {
+  font-size: 8px;
+}
+.center_button2 {
+  padding: 9px 20px 9px 20px;
+  font-size: 7px;
+}
+.gallery_3 {
+  margin-top: -239px;
+}
+.center_block3 {
+  width: 170px;
+  height: 150px;
+  bottom: 61%;
+}
+.center_title3{
+  font-size: 14px;
+  margin-top: 17px;
+}
+.center_text3 {
+  font-size: 8px;
+}
+.center_button3 {
+  padding: 9px 20px 9px 20px;
+  font-size: 7px;
+}
+.pictures_pic13 {
+  top: 19%;
+}
+}
+
+
+@media only screen and (max-width: 576px){
+  .nav_list{
+    visibility: hidden;
+  }
+  .title {
+    font-size: 27px;
+}
+.cube{
+  width: 130px;
+  height: 130px;
+}
+.cube_text{
+  font-size: 15px;
+  margin-top: 38px;
+}
+.california_travel {
+  padding-top: 214px;
+}
+.center_title {
+  font-size: 11px;
+}
+.pictures_pic5 {
+  top: 9%;
+}
+.center_block2 {
+  width: 130px;
+  height: 110px;
+  bottom: 77%;
+  right: 39%;
+}
+.center_title2 {
+  font-size: 14px;
+}
+.center_text2 {
+  margin: 0px 7px 0px 7px;
+  font-size: 6px;
+}
+.center_button2 {
+  padding: 4px 14px 4px 14px;
+  font-size: 5px;
+}
+.center_block3 {
+  width: 130px;
+  height: 110px;
+  bottom: 69%;
+  right: 39%;
+}
+.center_title3 {
+  font-size: 12px;
+}
+.center_text3 {
+  margin: 0px 7px 0px 7px;
+  font-size: 6px;
+}
+.center_button3 {
+  padding: 4px 14px 4px 14px;
+  font-size: 5px;
+}
+.pictures_pic13 {
+  top: 14%;
+}
+
+}
+
+
